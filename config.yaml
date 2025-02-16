@@ -1,0 +1,14 @@
+data:
+  dataset_path: "data/sample_10x/"
+qc:
+  min_cells: 3
+  min_genes: 200
+preprocessing:
+  normalization: "log1p"
+dim_reduction:
+  n_pcs: 30
+clustering:
+  resolution: 0.5
+output:
+  save_dir: "results/"
+```

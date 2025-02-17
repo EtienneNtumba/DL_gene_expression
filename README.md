@@ -83,3 +83,9 @@ clustering:
 output:
   save_dir: "results/"
 ```
+## Author
+
+**Etienne Ntumba Kabongo**  
+📧 Email: [etienne.ntumba.kabongo@umontreal.ca](mailto:etienne.ntumba.kabongo@umontreal.ca)  
+🔗 GitHub: [EtienneNtumba](https://github.com/EtienneNtumba)
+

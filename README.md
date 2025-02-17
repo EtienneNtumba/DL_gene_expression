@@ -1,5 +1,3 @@
-# README.md
-
 # Single-Cell RNA-seq Analysis Pipeline
 
 ## Overview

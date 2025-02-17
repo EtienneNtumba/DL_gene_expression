@@ -57,9 +57,6 @@ output:
   save_dir: "results/"
 ```
 
-## Contributing
-Feel free to submit a **pull request** or open an **issue** for improvements!
-
 ## License
 This project is licensed under the **MIT License**.
 
